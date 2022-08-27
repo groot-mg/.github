@@ -9,6 +9,7 @@ Some techniques and tools used:
 * Databases: PostgreSQL and Cassandra
 * Security layer - Keycloak with OpenID Connect
 * Observability - Prometheus, Alert Manager and Grafana dashboards
+* Versioning
 * Github Actions to build and test any new code
 * [SonarCloud](https://sonarcloud.io/organizations/shopping-api/projects) integration for Code quality
 
