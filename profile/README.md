@@ -10,7 +10,7 @@ Some techniques and tools used:
 * Security layer - Keycloak with OpenID Connect
 * Observability - Prometheus, Alert Manager and Grafana dashboards
 * Github Actions to build and test any new code
-* SonarCloud integration
+* [SonarCloud](https://sonarcloud.io/organizations/shopping-api/projects) integration for Code quality
 
 ## General Architecture Diagram
 <p align="center">
