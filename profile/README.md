@@ -15,3 +15,15 @@ Some techiniques and tools used:
         <img height=450 src="./images/shopping-api-general-diagram.png" alt="General diagram">
     </a>
 </p>
+
+## How to run
+These repositories are not hosted anywhere, you might be able to run them in your local machine, it just depends if your machine is powerful enought. 
+
+Requirements:
+* Java 17
+* Docker and docker-compose
+
+To run evething together, a docker local setup up is already provided on [docker-local-setup](https://github.com/groot-mg/docker-local-setup). It will build the necessary .jar files, create the local docker images, and start up the containers.
+
+## Documentation
+Each repository has its own documentation on Readme or Wiki pages, but a deeper explanation how everhing work together is provided on the repo [docs](https://github.com/groot-mg/docs)
