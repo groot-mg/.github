@@ -2,6 +2,6 @@
 
 :receipt: These repositories representes a microservices architecture based in a shopping-api.
 
-### General dashboard
+### General diagram
 
-<img src="./images/shopping-api-general-diagram.png">
+<img height=200 src="./images/shopping-api-general-diagram.png" alt="General diagram">
