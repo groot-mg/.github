@@ -9,6 +9,8 @@ Some techniques and tools used:
 * Databases: PostgreSQL and Cassandra
 * Security layer - Keycloak with OpenID Connect
 * Observability - Prometheus, Alert Manager and Grafana dashboards
+* Github Actions to build and test any new code
+* SonarCloud integration
 
 ## General Architecture Diagram
 <p align="center">
