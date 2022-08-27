@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-:receipt: These repositories representes a microservices architecture based in a shopping-api.
+:receipt: These repositories representes a microservices architecture based in a shopping/e-commerve api.
 
 Some techiniques and tools used:
-* Microservices 
 * API Gateway
 * Service discovery
-* Security layer - Keycloak - OpenID Connect
+* Microservices 
+* Security layer - Keycloak with OpenID Connect
 * Observability - Prometheus and Grafana dashboards
 
 ## General Architecture Diagram
