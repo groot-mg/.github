@@ -15,7 +15,7 @@ Some techniques and tools used:
 
 ## General Architecture Diagram
 <p align="center">
-    <a href="https://www.hackerrank.com/mauriciogeneroso">
+    <a href="https://github.com/groot-mg/.github/blob/main/images/general-diagram.png">
         <img height=450 src="./images/general-diagram.png" alt="General diagram">
     </a>
 </p>
