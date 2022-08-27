@@ -4,4 +4,4 @@
 
 ### General diagram
 
-<img height=200 src="./images/shopping-api-general-diagram.png" alt="General diagram">
+<img height=450 src="./images/shopping-api-general-diagram.png" alt="General diagram">
