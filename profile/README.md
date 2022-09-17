@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-:receipt: These repositories represent a microservices architecture based in a shopping/e-commerve api.
+:receipt: These repositories represent a microservices architecture based in a simple shopping/e-commerve api.
 
 Some techniques and tools used:
 * API Gateway
