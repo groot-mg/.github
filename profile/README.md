@@ -2,15 +2,15 @@
 
 :receipt: These repositories represent a microservices architecture based in a simple shopping/e-commerve api.
 
-Some techniques and tools used:
-* API Gateway
-* Service discovery
+Some techniques, frameworks and tools used:
+* API Gateway ([Spring Cloud Gateway](https://spring.io/projects/spring-cloud-gateway))
+* Service discovery ([Spring Netflix Eureka](https://spring.io/projects/spring-cloud-netflix))
 * Microservices 
-* Versioning
+* Versioning ([axion-plugin](https://github.com/allegro/axion-release-plugin))
 * Databases: PostgreSQL and Cassandra
-* Security layer - Keycloak with OpenID Connect
-* Observability - Prometheus, Alert Manager and Grafana dashboards
-* Github Actions to build and test any new code
+* Security layer - ([Keycloak](https://www.keycloak.org/) with OpenID Connect - integrated with [Spring Security Oauth2](https://spring.io/projects/spring-security-oauth))
+* Observability: [Prometheus](https://prometheus.io/), [Alert Manager](https://prometheus.io/docs/alerting/latest/alertmanager/#alertmanager), [Slack](https://slack.com/intl/en-gb), [Micrometer](https://micrometer.io/), [Grafana Tempo](https://grafana.com/oss/tempo/), [Grafana Loki](https://grafana.com/oss/loki/) and [Grafana](https://grafana.com/) dashboards
+* [Github Actions](https://github.com/features/actions) to build and test any new code
 * [SonarCloud](https://sonarcloud.io/organizations/shopping-api/projects) integration for Code quality
 
 ## General Architecture Diagram
